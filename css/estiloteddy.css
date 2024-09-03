@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+}
+
+.cabeza{
+    background-color: burlywood;
+    border-radius: 50%;
+    width: 235px;
+    height: 235px;
+    position: relative;
+    left: 25px;
+}
+
+.ojo1{
+    background-color: white;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    top: 40px;
+    left: 40px;
+    right: 40px;
+    position: absolute;
+}
+
+.pupila1{
+    background-color: black;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    top: 10px;
+    left: 10px;
+}
+
+.ojo2{
+    background-color: white;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    top: 40px;
+    left: 130px;
+    right: 40px;
+    position: absolute;
+}
+
+.pupila2{
+    background-color: black;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    top: 10px;
+    left: 10px;
+}
+
+.oreja1{
+    background-color: burlywood;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    left: 30px;
+}
+
+.oreja2{
+    background-color: burlywood;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    left: 200px;
+}
+
+.nariz{
+    background-color: brown;
+    width: 60px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    top: 90px;
+    left: 85px;
+    right: 100px;
+}
+
+.boca{
+    background-color: black;
+    width: 60px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+    top: 160px;
+    left: 85px;
+}
+
+.cuerpo{
+    background-color: burlywood;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 190px;
+}
+
+.estomago{
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+.brazo1{
+    background-color: burlywood;
+    width: 70px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.brazo2{
+    background-color: burlywood;
+    width: 70px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    left: 235px;
+}
+
+.pie1{
+    background-color: burlywood;
+    width: 70px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    top: 450px;
+    left: 20px;
+}
+
+.pie2{
+    background-color: burlywood;
+    width: 70px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    top: 450px;
+    left: 200px;
+}
